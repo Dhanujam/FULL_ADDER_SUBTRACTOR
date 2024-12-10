@@ -38,22 +38,40 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-**Procedure**
+![image](https://github.com/user-attachments/assets/8f59e91d-a7f0-4e2c-bdc1-69e4d35c7c07)
 
-Write the detailed procedure here
+
+**procedure**
+
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. */
+###Developed by:RAHA PRIYA DHARSHINI M  ###RegisterNumber:24901069
+![fulladder prog](https://github.com/user-attachments/assets/50959c07-1a16-4b23-87af-c85188d73fe3)
+
+![fullsub prog](https://github.com/user-attachments/assets/b9421de3-0ac6-478a-b1d8-255ac1c7b644)
+
+
 
 **RTL Schematic**
-![Screenshot (21)](https://github.com/user-attachments/assets/c0a3281f-c238-4468-b732-fa63b48c6b9d)
+![fulladder rtl](https://github.com/user-attachments/assets/3b19b5b3-adaf-41f0-84e1-ec825065a161)
 
+![fullsub rtl](https://github.com/user-attachments/assets/9cb49a23-e5ee-4db9-b8ee-d463d463e18d)
 
 **Output Timing Waveform**
-![Screenshot (22)](https://github.com/user-attachments/assets/6878d73d-e7fd-4fb1-aeb8-5c2baf406156)
+![fulladder waveform](https://github.com/user-attachments/assets/dba39828-7f99-4168-becf-c85ec48d1c70)
 
+![fullsub waveform](https://github.com/user-attachments/assets/f7e0e24d-1f2c-46ea-a93c-d3ca741996cc)
 
 **Result:**
 
